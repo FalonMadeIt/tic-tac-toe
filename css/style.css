@@ -1,5 +1,5 @@
 body{
-    background-image: url("../images/throne.jpg");
+    background-image: url("../public/images/throne.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -34,4 +34,3 @@ td {
     font-size: 40pt;
     border: 2px solid #4B3025;
 }
-
